@@ -1,0 +1,12 @@
+version: "base"
+
+# Inputs / Outputs
+
+io_raw:
+  path_credit_risk_csv: "files/data/input/data.csv"
+  
+io_input:
+  path_clientes_bancarios_csv: ""
+  
+io_intermedia:
+  path_clientes_bancarios_csv: ""
